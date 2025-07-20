@@ -1,5 +1,4 @@
 {
-  "homepage": "https://tryptonite.github.io/hivehavn-landing"
   "name": "vite_react_shadcn_ts",
   "private": true,
   "version": "0.0.0",
@@ -11,6 +10,7 @@
     "lint": "eslint .",
     "preview": "vite preview"
   },
+}
   "dependencies": {
     "@hookform/resolvers": "^3.9.0",
     "@radix-ui/react-accordion": "^1.2.0",
