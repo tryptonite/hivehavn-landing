@@ -51,7 +51,7 @@ const HowItWorks = () => {
                 <div className="w-20 h-20 bg-gradient-primary rounded-full flex items-center justify-center mx-auto shadow-warm group-hover:scale-110 transition-transform duration-300">
                   <step.icon className="h-8 w-8 text-white" />
                 </div>
-                <div className="absolute -top-2 -right-2 w-8 h-8 bg-accent text-accent-foreground rounded-full flex items-center justify-center text-sm font-bold">
+                <div className="absolute -top-2 -left-2 w-8 h-8 bg-accent text-accent-foreground rounded-full flex items-center justify-center text-sm font-bold">
                   {step.step}
                 </div>
                 
