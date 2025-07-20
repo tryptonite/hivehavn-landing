@@ -31,7 +31,7 @@ const Hero = () => {
             <div className="flex items-center space-x-8 text-sm text-muted-foreground">
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-success rounded-full mr-2"></div>
-                <span>1000+ Happy Tenants</span>
+                <span>Flexible Lease Terms</span>
               </div>
               <div className="flex items-center">
                 <div className="w-2 h-2 bg-success rounded-full mr-2"></div>
