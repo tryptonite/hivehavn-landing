@@ -51,9 +51,6 @@ const Hero = () => {
             </div>
             
             {/* Floating cards */}
-            <div className="absolute -top-4 -left-4 bg-card rounded-xl p-4 shadow-card animate-fade-in" style={{ animationDelay: '0.3s' }}>
-              <div className="text-sm font-semibold text-foreground">💰 From $500/month</div>
-            </div>
             <div className="absolute -bottom-4 -right-4 bg-card rounded-xl p-4 shadow-card animate-fade-in" style={{ animationDelay: '0.6s' }}>
               <div className="text-sm font-semibold text-foreground">✅ Verified & Safe</div>
             </div>
