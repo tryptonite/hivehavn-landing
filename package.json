@@ -1,3 +1,10 @@
+  {
+  "name": "hivehavn-landing",
+  "version": "1.0.0",
+  "homepage": "https://tryptonite.github.io/hivehavn-landing",
+  "scripts": {
+    "build": "vite build"
+  },
 {
   "name": "vite_react_shadcn_ts",
   "private": true,
